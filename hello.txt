@@ -1,2 +1,3 @@
-hello world git 
-hello 
+before		
+hello world git
+after
